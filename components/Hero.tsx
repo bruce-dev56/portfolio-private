@@ -32,7 +32,7 @@ const Hero = () => {
           </h1>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words="I specializes in AI and Web & Mobile Development"
+            words="I specialize in AI and Web & Mobile Development"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text lg lg:text-2xl">
             Hi!!... I&apos;m Volodymyr Karabash
